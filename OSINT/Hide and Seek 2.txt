@@ -1,11 +1,10 @@
-Challenge :
-OSINT - EASY
-hIDe and seek
-We don't know the flag, but we know some people who do! Here are their locations:
-Location
-?v=hqXOIZtRYZU
-Location2
-qFHIm0c.jpeg
+OSINT - MEDIUM
+hIDe and seek 2
+I've gotten some more good intel. Apparently, the following information is the location of another flag!
+First piece of info
+gg/4KcDWnUYMs
+Second piece of info
+810237829564727312-810359639975526490
 
 ----------------------------------------------------
 
