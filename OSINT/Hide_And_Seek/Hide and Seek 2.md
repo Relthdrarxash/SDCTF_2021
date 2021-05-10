@@ -21,7 +21,7 @@ Looks like a discord link :
     discord.gg/4KcDWnUYMs
 
 brings us to a secret server with 10k flags
-![screen of the server](/media/master_hacker.png)
+![screen of the server](media/master_hacker.png)
 from `sdctf{m@st3R_h@Ck3R_000}` to `sdctf{m@st3R_h@Ck3R_9999}`
 
 Then we're supposed to get the right flag with the help of the second part
@@ -38,5 +38,5 @@ Grabbed the link of a message in the "admin" server : `discord.com/channels/8102
 
 Replaced the id part with the second part of the hint `discord.com/channels/810237829564727308/810237829564727312/810359639975526490`
 
-![flag](/media/flag.png)
+![flag](media/flag.png)
 Brought us to the right number for the flag : `sdctf{m@st3R_h@Ck3R_4807}`
