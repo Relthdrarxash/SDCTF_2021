@@ -1,0 +1,10 @@
+The location of the first part of the flag is 
+?v=hqXOIZtRYZU
+And as many should have recongnized it, yes, it's a youtube link
+https://www.youtube.com/watch?v=hqXOIZtRYZU
+This one gives us the first half of the flag (by slowly reading it and then showing it at the end, loss of time)
+sdctf{W0w_1
+
+Second part is :
+qFHIm0c.jpeg
+This one is a bit more tricky as there is no link no indication on where to look for

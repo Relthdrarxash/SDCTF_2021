@@ -1,0 +1,11 @@
+This one is way more tricky,
+After looking into the papers courses, much time has passed and nothing came up.
+
+Though, I had the idea to use dorks on his website http://cseweb.ucsd.edu/~dakane
+and I found more courses than there were.
+
+So I decided to pull up site:cseweb.ucsd.edu/~dakane skyline
+skyline being the keyword about it, I found a link to a homework paper : Homework3.pdf
+
+the flag is at the bottom of the page :
+sdctf{N1ced0rKiNGC@pt41N}

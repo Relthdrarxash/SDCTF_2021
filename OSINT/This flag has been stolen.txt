@@ -1,0 +1,8 @@
+So if the flag has been stolen, it should exist in older versions of the website
+
+A quick look on archive.org/sdc.tf 
+https://web.archive.org/web/20210130094941/https://sdc.tf/
+
+Scroll to the bottom of the page
+
+sdctf{Th3_L0$t_trE@$ur3_0f_th3_INt3rnEt}

@@ -1,0 +1,22 @@
+This one was rather easy.
+
+You had to dump the decimal value of the file,
+f = open("flag.dat",'rb').read()
+
+for letter in f:
+    print(letter)
+you get something like that :
+liste = [230, 200, 198, 232, 204, 246, 174, 96, 220, 136, 102, 228, 204, 170, 152, 190, 218, 178, 190, 142, 96, 96, 200, 190, 230, 98, 164, 250]
+
+So these are decimal values and we need some text, the dec2text doesn't give us a flag back, so there's some maths there.
+
+I noticed that the first number should be a "s".
+I look up ascii table and "s" is 115 in dec
+So 230 / 2 = 115
+
+With a small code we can then output the flag.
+
+output = ""
+for i in liste:
+	output += chr(int(i/2))
+print(output)
