@@ -24,7 +24,7 @@ brings us to a secret server with 10k flags
 
 ![screen of the server](media/master_hacker.png)
 
-from `sdctf{m@st3R_h@Ck3R_000}` to `sdctf{m@st3R_h@Ck3R_9999}`
+from `sdctf{m@st3R_h@Ck3R_0000}` to `sdctf{m@st3R_h@Ck3R_9999}`
 
 Then we're supposed to get the right flag with the help of the second part
 
