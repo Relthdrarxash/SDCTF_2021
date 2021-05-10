@@ -1,3 +1,10 @@
+Challenge :
+OSINT - EASY
+This flag has been stolen
+We used to offer this flag for free on our official SDCTF website, but unfortunately hackers have stolen it. Sorry.
+
+------------------------------------------------------------
+
 So if the flag has been stolen, it should exist in older versions of the website
 
 A quick look on archive.org/sdc.tf 
