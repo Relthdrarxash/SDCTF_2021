@@ -1,3 +1,14 @@
+Challenge : 
+
+CRYPTO - EASY
+Lost in Transmission
+I had my friend send me the flag, but it seems a bit...off.
+Flag Message
+https://cdn.discordapp.com/attachments/840007307761156097/840007905616986122/flag.dat
+
+-------------------------------------------
+
+
 This one was rather easy.
 
 You had to dump the decimal value of the file,
