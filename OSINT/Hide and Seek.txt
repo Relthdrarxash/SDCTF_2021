@@ -1,6 +1,15 @@
-The location of the first part of the flag is 
+OSINT - EASY
+hIDe and seek
+We don't know the flag, but we know some people who do! Here are their locations:
+Location
 ?v=hqXOIZtRYZU
-And as many should have recongnized it, yes, it's a youtube link
+Location2
+qFHIm0c.jpeg
+
+-----------------------------------------------------
+
+Location 1 :
+As many should have recognized it, yes, it's a youtube link
 https://www.youtube.com/watch?v=hqXOIZtRYZU
 This one gives us the first half of the flag (by slowly reading it and then showing it at the end, loss of time)
 sdctf{W0w_1
@@ -8,3 +17,8 @@ sdctf{W0w_1
 Second part is :
 qFHIm0c.jpeg
 This one is a bit more tricky as there is no link no indication on where to look for
+But it appears as a jpeg and as the first part was the most famous site for videos, the second part should be the most famous site for pictures:
+https://imgur.com/qFHIm0c.jpeg
+_h4D_n0_ID3a!}
+
+sdctf{W0w_1_h4D_n0_ID3a!}
