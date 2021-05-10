@@ -21,6 +21,7 @@ Looks like a discord link :
     discord.gg/4KcDWnUYMs
 
 brings us to a secret server with 10k flags
+
 ![screen of the server](media/master_hacker.png)
 
 from `sdctf{m@st3R_h@Ck3R_000}` to `sdctf{m@st3R_h@Ck3R_9999}`
