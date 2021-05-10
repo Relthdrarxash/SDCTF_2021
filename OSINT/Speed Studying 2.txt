@@ -1,3 +1,10 @@
+Challenge :
+OSINT - MEDIUM
+Speed Studying 2
+Nice, now that you've found Daniel Kane, I need an example from one of his classes. I don't remember anything about it other than its called "The Skyline Problem". Can you find it?
+
+------------------------------------------
+
 This one is way more tricky,
 After looking into the papers courses, much time has passed and nothing came up.
 
